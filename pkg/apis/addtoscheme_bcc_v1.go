@@ -1,7 +1,7 @@
 package apis
 
 import (
-	v1 "gitlab.wodcloud.com/cloud/awecloud-sysoperator/pkg/apis/bcc/v1"
+	v1 "github.com/mengkzhaoyun/awecloud-sysoperator/pkg/apis/bcc/v1"
 )
 
 func init() {

@@ -19,7 +19,7 @@ limitations under the License.
 
 syntax = "proto2";
 
-package gitlab.wodcloud.com.cloud.awecloud_sysoperator.pkg.apis.bcc.v1;
+package github.com.mengkzhaoyun.awecloud_sysoperator.pkg.apis.bcc.v1;
 
 import "k8s.io/apimachinery/pkg/apis/meta/v1/generated.proto";
 import "k8s.io/apimachinery/pkg/runtime/generated.proto";

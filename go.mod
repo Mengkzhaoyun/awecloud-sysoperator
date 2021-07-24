@@ -1,4 +1,4 @@
-module gitlab.wodcloud.com/cloud/awecloud-sysoperator
+module github.com/mengkzhaoyun/awecloud-sysoperator
 
 go 1.13
 
