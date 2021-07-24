@@ -22,10 +22,8 @@ require (
 	honnef.co/go/tools v0.0.1-2020.1.3 // indirect
 	k8s.io/apiextensions-apiserver v0.17.4 // indirect
 	k8s.io/apimachinery v0.17.4
-	k8s.io/client-go v12.0.0+incompatible
+	k8s.io/client-go v0.17.4
 	k8s.io/kube-openapi v0.0.0-20191107075043-30be4d16710a
 	k8s.io/utils v0.0.0-20191114200735-6ca3b61696b6 // indirect
 	sigs.k8s.io/controller-runtime v0.5.2
 )
-
-replace k8s.io/client-go => k8s.io/client-go v0.17.4 // Required by prometheus-operator
