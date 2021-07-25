@@ -5,8 +5,8 @@
 operator-sdk-v0.17 generate k8s
 
 # tag
-git tag v0.5.2 -f
-git push origin v0.5.2 -f
+git tag v0.5.3 -f
+git push origin v0.5.3 -f
 
 # protos
 go-to-protobuf \
